@@ -7,5 +7,7 @@ namespace WebApplication1.Models
 {
     public class NewClass
     {
+        public int MyPropertyB { get; set; }
+
     }
 }
